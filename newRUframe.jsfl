@@ -1,0 +1,15 @@
+﻿fl.getDocumentDOM().getTimeline().convertToKeyframes();
+fl.getDocumentDOM().getTimeline().setSelectedFrames([]);
+fl.getDocumentDOM().getTimeline().setFrameProperty('name', 'ru');
+fl.getDocumentDOM().getTimeline().convertToKeyframes();
+fl.getDocumentDOM().getTimeline().setSelectedFrames([]);
+fl.getDocumentDOM().getTimeline().setFrameProperty('name', 'pl');
+fl.getDocumentDOM().getTimeline().convertToKeyframes();
+fl.getDocumentDOM().getTimeline().setSelectedFrames([]);
+fl.getDocumentDOM().getTimeline().setFrameProperty('name', 'de');
+fl.getDocumentDOM().getTimeline().convertToKeyframes();
+fl.getDocumentDOM().getTimeline().setSelectedFrames([]);
+fl.getDocumentDOM().getTimeline().setFrameProperty('name', 'fr');
+fl.getDocumentDOM().getTimeline().convertToKeyframes();
+fl.getDocumentDOM().getTimeline().setSelectedFrames([]);
+fl.getDocumentDOM().getTimeline().setFrameProperty('name', 'it');
